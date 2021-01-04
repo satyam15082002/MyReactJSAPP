@@ -1,0 +1,19 @@
+.loginform
+{
+    text-align: center;
+    align-items: center;
+}
+.loginform>form>input
+{
+    font-size: large;
+    padding: 5px;
+    width: 40vw;
+    margin: 2px;
+    border-radius: 10px;
+}
+.loginform>form>input[type="submit"]
+{
+    width: 20vw;
+    border-radius: 20px;
+    border:none;
+}
